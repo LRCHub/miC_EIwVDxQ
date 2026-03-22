@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "愛したいし怖れないし急がない",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-22T21:29:17.697817Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛したいし怖れないし急がない",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_愛したいし怖れないし急がない_サンボマスター.txt"
+    }
+  ]
+}
